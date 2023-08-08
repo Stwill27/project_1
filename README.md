@@ -7,3 +7,4 @@ The project consists:
 3. data dependency research and visualization using plotly.express and seabornd;
 4. data cleaning from omissions and outliers.
    
+PS: There are plotly.express graphics in HTML files.
