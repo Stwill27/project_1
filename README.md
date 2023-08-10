@@ -1,4 +1,6 @@
 # project_1
+Used data: https://drive.google.com/drive/folders/1xsNFYtsbTcfwjdKn3VJEaO9mDyhKa0e7?usp=sharing
+
 Project about jobs analysis from headhunter.ru. <br>
 In this project I took data about job applications from headhunter. The main task was to analyse how do the different signs (like degree of education or place of residence) affect the desired salary. <br>
 The project consists:
